@@ -1,0 +1,4 @@
+variables:
+- team: test-rahul-org
+- admin-user: rahulidsinha-admin
+- manager-user: rahulidsinha
